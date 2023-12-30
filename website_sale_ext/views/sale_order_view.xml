@@ -1,4 +1,5 @@
 <odoo>
+<!--  Comentario de Prueba git          -->
   <data>
 
     <record id="view_order_form_inherit_to_check" model="ir.ui.view">
